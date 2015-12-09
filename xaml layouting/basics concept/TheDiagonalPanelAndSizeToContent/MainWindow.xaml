@@ -1,0 +1,12 @@
+﻿<Window x:Class="TheDiagonalPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:TheDiagonalPanel"
+        Title="MainWindow" SizeToContent="WidthAndHeight">
+    <local:DiagonalPanel Margin="20">
+        <Button Content="Welcome"/>
+        <Button Content="to" Margin="20"/>
+        <TextBox Text="Pluralsight"/>
+        <Button Content=":-)"/>
+    </local:DiagonalPanel>
+</Window>

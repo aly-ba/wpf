@@ -1,0 +1,15 @@
+﻿<Window x:Class="TheWrapPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <WrapPanel ItemWidth="200" ItemHeight="200">
+        <Button Content="OK"/>
+        <Button Content="OK"/>
+        <Button Content="Pluralsight" Background="#F26722"/>
+        <Button Content="OK"/>
+        <Button Content="OK"/>
+        <Button Content="OK"/>
+        <Button Content="OK"/>
+        <Button Content="OK"/>
+    </WrapPanel>
+</Window>
