@@ -1,0 +1,19 @@
+﻿<Page x:Class="XAMLJumpstart.Introduction.Syntax"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:otherNamespace="clr-namespace:XAMLJumpstart.Introduction.OtherNamespace"
+      Title="Syntax"
+      d:DesignHeight="600"
+      d:DesignWidth="300"
+      mc:Ignorable="d">
+
+    <Grid>
+
+        <otherNamespace:DummyUserControl></otherNamespace:DummyUserControl>
+        <Button Width="100" Height="30" x:Name="btnTest"></Button>
+                
+        
+    </Grid>
+</Page>
