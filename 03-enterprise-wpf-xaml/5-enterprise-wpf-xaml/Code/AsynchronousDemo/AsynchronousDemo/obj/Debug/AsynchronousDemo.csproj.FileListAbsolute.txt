@@ -1,0 +1,13 @@
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\AsynchronousDemo\AsynchronousDemo\bin\Debug\AsynchronousDemo.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\AsynchronousDemo\AsynchronousDemo\bin\Debug\AsynchronousDemo.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\AsynchronousDemo\AsynchronousDemo\bin\Debug\AsynchronousDemo.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\AsynchronousDemo\AsynchronousDemo\obj\Debug\AsynchronousDemo.csprojResolveAssemblyReference.cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\AsynchronousDemo\AsynchronousDemo\obj\Debug\MainWindow.baml
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\AsynchronousDemo\AsynchronousDemo\obj\Debug\MainWindow.g.cs
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\AsynchronousDemo\AsynchronousDemo\obj\Debug\App.g.cs
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\AsynchronousDemo\AsynchronousDemo\obj\Debug\AsynchronousDemo_MarkupCompile.cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\AsynchronousDemo\AsynchronousDemo\obj\Debug\AsynchronousDemo.g.resources
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\AsynchronousDemo\AsynchronousDemo\obj\Debug\AsynchronousDemo.Properties.Resources.resources
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\AsynchronousDemo\AsynchronousDemo\obj\Debug\AsynchronousDemo.csproj.GenerateResource.Cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\AsynchronousDemo\AsynchronousDemo\obj\Debug\AsynchronousDemo.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\AsynchronousDemo\AsynchronousDemo\obj\Debug\AsynchronousDemo.pdb

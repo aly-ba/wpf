@@ -1,0 +1,13 @@
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\DataBindingLists\DataBindingLists\bin\Debug\DataBindingLists.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\DataBindingLists\DataBindingLists\bin\Debug\DataBindingLists.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\DataBindingLists\DataBindingLists\bin\Debug\DataBindingLists.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\DataBindingLists\DataBindingLists\obj\Debug\DataBindingLists.csprojResolveAssemblyReference.cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\DataBindingLists\DataBindingLists\obj\Debug\MainWindow.baml
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\DataBindingLists\DataBindingLists\obj\Debug\MainWindow.g.cs
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\DataBindingLists\DataBindingLists\obj\Debug\App.g.cs
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\DataBindingLists\DataBindingLists\obj\Debug\DataBindingLists_MarkupCompile.cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\DataBindingLists\DataBindingLists\obj\Debug\DataBindingLists.g.resources
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\DataBindingLists\DataBindingLists\obj\Debug\DataBindingLists.Properties.Resources.resources
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\DataBindingLists\DataBindingLists\obj\Debug\DataBindingLists.csproj.GenerateResource.Cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\DataBindingLists\DataBindingLists\obj\Debug\DataBindingLists.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\DataBindingLists\DataBindingLists\obj\Debug\DataBindingLists.pdb

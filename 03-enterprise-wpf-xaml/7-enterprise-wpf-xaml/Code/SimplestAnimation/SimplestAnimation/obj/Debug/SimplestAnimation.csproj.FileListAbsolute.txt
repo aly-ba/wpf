@@ -1,0 +1,16 @@
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\Practice\Animation\SimplestAnimation\SimplestAnimation\bin\Debug\SimplestAnimation.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\Practice\Animation\SimplestAnimation\SimplestAnimation\bin\Debug\SimplestAnimation.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\Practice\Animation\SimplestAnimation\SimplestAnimation\bin\Debug\SimplestAnimation.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\Practice\Animation\SimplestAnimation\SimplestAnimation\obj\Debug\SimplestAnimation.csprojResolveAssemblyReference.cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\Practice\Animation\SimplestAnimation\SimplestAnimation\obj\Debug\MainWindow.baml
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\Practice\Animation\SimplestAnimation\SimplestAnimation\obj\Debug\MainWindow.g.cs
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\Practice\Animation\SimplestAnimation\SimplestAnimation\obj\Debug\App.g.cs
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\Practice\Animation\SimplestAnimation\SimplestAnimation\obj\Debug\SimplestAnimation_MarkupCompile.cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\Practice\Animation\SimplestAnimation\SimplestAnimation\obj\Debug\SimplestAnimation.g.resources
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\Practice\Animation\SimplestAnimation\SimplestAnimation\obj\Debug\SimplestAnimation.Properties.Resources.resources
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\Practice\Animation\SimplestAnimation\SimplestAnimation\obj\Debug\SimplestAnimation.csproj.GenerateResource.Cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\Practice\Animation\SimplestAnimation\SimplestAnimation\obj\Debug\SimplestAnimation.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\Practice\Animation\SimplestAnimation\SimplestAnimation\obj\Debug\SimplestAnimation.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\Practice\Animation\SimplestAnimation 1\SimplestAnimation\bin\Debug\SimplestAnimation.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\Practice\Animation\SimplestAnimation 1\SimplestAnimation\obj\Debug\SimplestAnimation.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\Practice\Animation\SimplestAnimation 1\SimplestAnimation\obj\Debug\SimplestAnimation.pdb

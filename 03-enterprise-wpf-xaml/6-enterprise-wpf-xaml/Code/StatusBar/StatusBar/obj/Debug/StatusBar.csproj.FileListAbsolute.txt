@@ -1,0 +1,12 @@
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\StatusBar\StatusBar\bin\Debug\StatusBar.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\StatusBar\StatusBar\bin\Debug\StatusBar.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\StatusBar\StatusBar\bin\Debug\StatusBar.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\StatusBar\StatusBar\obj\Debug\MainWindow.baml
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\StatusBar\StatusBar\obj\Debug\MainWindow.g.cs
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\StatusBar\StatusBar\obj\Debug\App.g.cs
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\StatusBar\StatusBar\obj\Debug\StatusBar_MarkupCompile.cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\StatusBar\StatusBar\obj\Debug\StatusBar.g.resources
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\StatusBar\StatusBar\obj\Debug\StatusBar.Properties.Resources.resources
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\StatusBar\StatusBar\obj\Debug\StatusBar.csproj.GenerateResource.Cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\StatusBar\StatusBar\obj\Debug\StatusBar.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\StatusBar\StatusBar\obj\Debug\StatusBar.pdb
